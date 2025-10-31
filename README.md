@@ -1,6 +1,5 @@
 # Extensions
 
-ChatGPT said:
 
 Step 1: Open the Browser Extensions Manager
 

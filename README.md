@@ -32,7 +32,7 @@ Poor Reviews,	Reports of malware, pop-ups, or data theft from other users.
 Unfamiliar or Unused.	Installed without your knowledge or no longer needed.
 High CPU Usage	Browser becomes sluggish after installation.
 
-💡 Tip: Search the extension’s name online with “is it safe?” to check reviews and reputation.
+Tip: Search the extension’s name online with “is it safe?” to check reviews and reputation.
 
 Step 4: Remove Unnecessary or Malicious Extensions
 
